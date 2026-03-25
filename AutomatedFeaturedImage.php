@@ -2,9 +2,18 @@
 
 /**
  * Plugin Name: Auto Featured Images SEO
+  * Plugin URI: https://github.com/GWeb2015/auto-featured-images-seo
  * Description: Automatically adds SEO-friendly featured images to posts without them using Pixabay or Pexels. Supports WP Cron automation.
  * Version: 1.1
  * Author: G Web Design
+  * Author URI: https://www.gwebdesign.co.za
+ * Text Domain: auto-featured-images-seo
+ * Domain Path: /languages
+ * License: MIT
+ * License URI: https://opensource.org/licenses/MIT
+ * Requires at least: 6.0
+ * Tested up to: 6.5
+ * Requires PHP: 7.4
  */
 
 if (!defined('ABSPATH')) exit;
